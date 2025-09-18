@@ -32,3 +32,6 @@ Thumbs.db
 # Other
 *.bak
 *.swp
+
+# Node.js
+node_modules/
